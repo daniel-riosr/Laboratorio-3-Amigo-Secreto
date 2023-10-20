@@ -1,0 +1,10 @@
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\bin\Debug\laboratorio 3 A.S.exe.config
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\bin\Debug\laboratorio 3 A.S.exe
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\bin\Debug\laboratorio 3 A.S.pdb
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\obj\Debug\laboratorio 3 A.S.csproj.AssemblyReference.cache
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\obj\Debug\laboratorio_3_A.S.Form1.resources
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\obj\Debug\laboratorio_3_A.S.Properties.Resources.resources
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\obj\Debug\laboratorio 3 A.S.csproj.GenerateResource.cache
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\obj\Debug\laboratorio 3 A.S.csproj.CoreCompileInputs.cache
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\obj\Debug\laboratorio 3 A.S.exe
+C:\Users\dcrio\source\repos\laboratorio 3 A.S\laboratorio 3 A.S\obj\Debug\laboratorio 3 A.S.pdb
